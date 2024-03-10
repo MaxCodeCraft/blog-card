@@ -12,8 +12,8 @@ This is a screenshot of my solution (./screenshot.jpg)
 
 ### Links
 
-- Solution URL repo: https://github.com/MaxCodeCraft/fem-qrcode
-- Live Site URL: https://maxcodecraft.github.io/fem-qrcode/
+- Solution URL repo: https://github.com/MaxCodeCraft/blog-card
+- Live Site URL: https://maxcodecraft.github.io/blog-card/
 
 ### Built with
 

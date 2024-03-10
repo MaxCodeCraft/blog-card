@@ -31,9 +31,9 @@ body {
 .container {
     display: flex;
     flex-direction: column;
-    flex-wrap: wrap;
+    width: 100%;
     max-width: 384px;
-    height: 522px;
+    height: auto;
     margin: auto;
     position: absolute;
     top: 50%;
@@ -59,6 +59,8 @@ body {
 
 .main-img > img {
     border-radius: 10px;
+    width: 100%;
+    max-width: 336px;
 }
 
 .content {
@@ -95,7 +97,7 @@ h1 {
 }
 
 .author {
-    padding: 0 1.5rem;
+    padding: 0 1.5rem 1.5rem;
     display: flex;
     align-items: center;
 }

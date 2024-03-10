@@ -94,6 +94,7 @@ h1 {
 .description {
     margin-top: 1rem;
     color: var(--color-grey);
+    line-height: 1.5rem;
 }
 
 .author {
@@ -110,14 +111,4 @@ h1 {
     padding-left: 1rem;
     align-items: center;
     font-weight: 700;
-}
-
-.attribution {
-    font-size: 11px;
-    position: absolute;
-    bottom: 10px;
-}
-
-.attribution a {
-    color: hsl(228, 45%, 44%);
 }

@@ -45,11 +45,12 @@ body {
     box-shadow: 8px 8px var(--color-black);
     cursor: pointer;
     font-family: 'Figtree';
-    
+    transition: 0.2s ease;
     font-style: normal;
 }
 
 .container:hover {
+    transition: 0.2s ease;
     box-shadow: 1rem 1rem var(--color-black);
 }
 

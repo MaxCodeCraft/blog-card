@@ -43,7 +43,6 @@ body {
     border: 1px solid var(--color-black);
     border-radius: 20px;
     box-shadow: 8px 8px var(--color-black);
-    cursor: pointer;
     font-family: 'Figtree';
     transition: 0.2s ease;
     font-style: normal;
@@ -85,6 +84,12 @@ body {
 h1 {
     margin-top: 1rem;
     font-size: 1.5rem;
+    cursor: pointer;
+}
+
+h1:hover {
+    color: var(--color-yellow);
+    transition: 0.2s ease;
 }
 
 .date {
